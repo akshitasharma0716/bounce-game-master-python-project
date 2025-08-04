@@ -42,3 +42,4 @@ A fun and interactive brick-breaking bounce game made using Python's Tkinter lib
 2. Download or clone the repository:
    ```bash
    git clone https://github.com/akshitasharma0716/python-project
+
